@@ -1,0 +1,47 @@
+# .NET / Visual Studio generated artifacts
+**/bin/
+**/obj/
+.vs/
+.vscode/
+.idea/
+_ReSharper*/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.DotSettings.user
+TestResults/
+**/coverage/
+*.coverage
+*.coveragexml
+
+# NuGet outputs
+packages/
+*.nupkg
+*.snupkg
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Local trained models / generated datasets
+*.dnn
+*.dnn.tmp
+**/mnist/
+**/MNIST/
+**/datasets/
+**/Datasets/
+train-images-idx3-ubyte*
+train-labels-idx1-ubyte*
+t10k-images-idx3-ubyte*
+t10k-labels-idx1-ubyte*
+
+# Private local configuration
+.env
+.env.*
+!.env.example
+**/secrets.json
+**/appsettings.Development.json
