@@ -9,11 +9,11 @@
 
 ## Temsili arayüz önizlemesi
 
-> **Önemli:** Bu bölümde kullanılacak görsel, projenin kaynak kodundaki arayüz düzeni ve tema renkleri esas alınarak **yapay zekâ ile oluşturulmuş temsili bir tasarımdır**. **Gerçek uygulama ekran görüntüsü değildir.** Görseldeki grafikler, metrikler, eğitim sonuçları, tahmin güvenleri ve süreler **örnek değerlerdir; çalıştırılıp ölçülmüş sonuçlar olarak yorumlanmamalıdır.**
-
 <!-- AI_ARAYUZ_GORSEL_BASLANGIC -->
-*Görsel GitHub deposunun `assets/screenshots/ai-temsili-arayuz.png` yoluna eklendiğinde burada gösterilecektir.*
+*Görsel, `assets/screenshots/ai-temsili-arayuz.png` dosyası depoya eklendiğinde burada görünecektir.*
 <!-- AI_ARAYUZ_GORSEL_BITIS -->
+
+Bu görsel, **DigitAIStudio** kaynak kodundaki mor temayı, MNIST yükleme/eğitim kontrollerini, çizim alanını, **28×28** ön işlemeyi ve **PREDICTION** panelini örneklemek amacıyla yapay zekâ yardımıyla hazırlanmıştır. **Gerçek uygulamadan alınmış bir ekran görüntüsü değildir.** Görünen tahmin güveni, test doğruluğu, gecikme ve autoencoder verileri doğrulanmış deney çıktıları değildir.
 
 ## İçindekiler
 
